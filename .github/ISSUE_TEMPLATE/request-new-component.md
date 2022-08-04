@@ -15,7 +15,7 @@ If you are not able to find a component that works for your, then please feel fr
 ### Reason for the new component
 > Explain the reasons behind this 
 
----
+ 
 
 # Benchmark
 Share links to similar solution on the internet that inspires this idea
@@ -23,7 +23,7 @@ Share links to similar solution on the internet that inspires this idea
 - Source 2
 - Source 3
 
----
+ 
 
 # Design Proposal
 Add screenshots of your proposed solution
