@@ -15,6 +15,14 @@ If you are not able to find a component that works for your, then please feel fr
 ### Reason for the new component
 > Explain the reasons behind this 
 
+
+### Where will it be used?
+> List products/pages/scenarios where this component will be used
+
+
+### How does it work?
+> Explain the rational behind this proposed component and specifics of how it will work
+
  
 
 # Benchmark
@@ -27,10 +35,3 @@ Share links to similar solution on the internet that inspires this idea
 
 # Design Proposal
 Add screenshots of your proposed solution
-
-### Where will it be used?
-> List products/pages/scenarios where this component will be used
-
-
-### How does it work?
-> Explain the rational behind this proposed component and specifics of how it will work
