@@ -17,7 +17,7 @@ If you are not able to find a component that works for your, then please feel fr
 
 ---
 
-## Benchmark
+# Benchmark
 Share links to similar solution on the internet that inspires this idea
 - Source 1
 - Source 2
@@ -25,7 +25,7 @@ Share links to similar solution on the internet that inspires this idea
 
 ---
 
-## Design Proposal
+# Design Proposal
 Add screenshots of your proposed solution
 
 ### Where will it be used?
